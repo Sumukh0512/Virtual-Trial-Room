@@ -4,3 +4,5 @@ tensorboardX
 pillow
 numpy
 opencv-contrib-python
+tensorboardx=2.4=pypi_0
+tensorflow=1.5.0=pypi_0
