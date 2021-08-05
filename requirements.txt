@@ -13,6 +13,7 @@ certifi==2020.4.5.1
 cffi==1.14.6
 chardet==3.0.4
 click==7.1.2
+cmake
 cycler==0.10.0
 dataclasses
 decorator==5.0.9
