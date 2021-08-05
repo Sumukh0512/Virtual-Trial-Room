@@ -14,7 +14,7 @@ cffi==1.14.6
 chardet==3.0.4
 click==7.1.2
 cycler==0.10.0
-dataclasses==0.8
+dataclasses
 decorator==5.0.9
 defusedxml==0.7.1
 dlib==19.19.0
